@@ -51,8 +51,8 @@
   }
   
   .thumbnail {
-    height: 10%;
-    width: 75%;
+    height: 350px;
+    width: 300px;
     border-radius: 19px;
   }
   
@@ -63,7 +63,6 @@
   }
   
   .card{
-    height: 600px;
     border-radius: 19px;
     padding: 15px;
     text-align: center;
