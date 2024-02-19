@@ -1,3 +1,6 @@
+# Descripton
+Node app that allows to search movie by title and write/edit/remove comments (reviews)
+
 # Setup
 ### MongoDB 
 1. Create .env file in **"./back"** folder. Set **"MONGO_USERNAME"** and **"MONGO_PASSWORD"**. Simply write line by line:  **MONGO_USERNAME=password** . No semicolons, commas or anything.
