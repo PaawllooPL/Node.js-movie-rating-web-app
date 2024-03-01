@@ -14,8 +14,11 @@ Go to **"./back"** folder in console and run app using **"node ./index.js"**
 
 ### Searching movies
 Search bar:
+
 ![default movie list](./img/search_movie_input.png)
+
 Searching result:
+
 ![default movie list](./img/searched_movies_list.png)
 
 ### Adding reviews
