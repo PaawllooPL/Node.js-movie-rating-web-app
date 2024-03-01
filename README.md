@@ -9,4 +9,17 @@ Node app that allows to search movie by title and write/edit/remove comments (re
 ### Node
 Go to **"./back"** folder in console and run app using **"node ./index.js"**
 # Examples of use
-### Default page / **empty** search
+## Default page / **empty** search
+![default movie list](./img/default_movies_view.png)
+
+## Searching movies
+### Search bar:
+
+![default movie list](./img/search_movie_input.png)
+
+### Searching result:
+
+![default movie list](./img/searched_movies_list.png)
+
+## Adding reviews
+![default movie list](./img/adding_review.png)
