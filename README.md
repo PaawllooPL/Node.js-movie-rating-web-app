@@ -8,3 +8,5 @@ Node app that allows to search movie by title and write/edit/remove comments (re
 
 ### Node
 Go to **"./back"** folder in console and run app using **"node ./index.js"**
+# Examples of use
+### Default page / **empty** search
