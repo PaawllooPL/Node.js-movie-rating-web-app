@@ -13,11 +13,11 @@ Go to **"./back"** folder in console and run app using **"node ./index.js"**
 ![default movie list](./img/default_movies_view.png)
 
 ## Searching movies
-###Search bar:
+### Search bar:
 
 ![default movie list](./img/search_movie_input.png)
 
-###Searching result:
+### Searching result:
 
 ![default movie list](./img/searched_movies_list.png)
 
